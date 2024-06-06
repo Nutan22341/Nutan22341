@@ -4,7 +4,7 @@
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🏫 I'm in my 3rd year CSE program at IIIT Delhi.
+- 🏫 I'm in my 3rd year CSSS program at IIIT Delhi.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on making cool projects.
 - 💬 Ask me about DSA, Web development, Java. 
