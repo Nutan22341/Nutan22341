@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 - 🏫 I'm in my 3rd year CSSS program at IIIT Delhi.
-- 👩🏻‍💻 I’m currently learning Machine Learning.
+- 👩🏻‍💻 I’m currently learning Machine Learning and Deep learning.
 - 👀 I’m looking to collaborate on making cool projects.
 - 💬 Ask me about DSA, Web development, Java. 
 - 😎 How to reach me: [My Instagram](https://www.instagram.com/nutankumari7021).
