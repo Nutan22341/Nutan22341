@@ -6,7 +6,7 @@
 - 👀 Looking to collaborate on **AI/ML projects**, creative **web apps**, or **research-based tech** initiatives.
 - 💬 Ask me about **DSA**, **Web Development**, **Java**, or **Python**.
 - 😎 Fun fact: I’m always up for a new learning adventure and usually feeling jolly 🙂
-- 📬 Reach me on [Instagram](https://www.instagram.com/nutankumari7021)
+- 📬 Reach me on [Instagram](https://www.instagram.com/nutan_7021/?next=%2F&hl=en)
 
 <!-- Optionally add:
 📌 Portfolio | 📫 Email | 🛠️ Tech Stack | 📊 GitHub Stats badges
